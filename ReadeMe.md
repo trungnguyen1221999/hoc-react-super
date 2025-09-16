@@ -1,1 +1,5 @@
-CONFLICT_INTENTIONAL_LINE
+dsad1a
+dsad1a
+sadas
+sadas1
+dsa
